@@ -8,4 +8,4 @@ Corrupted Photos Remover is a simple script, that will find corrupted photos in 
 
 ## Libraries used
 
-* [PIL](https://github.com/python-pillow/Pillow)
+* [FBChat](https://github.com/fbchat-dev/fbchat)
